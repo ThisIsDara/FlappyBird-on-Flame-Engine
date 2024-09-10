@@ -7,7 +7,7 @@ This is a web-based **Flappy Bird** game built using **Flutter** and the **Flame
 
 - Tap the screen to make the bird fly.
 - Navigate through the pipes without hitting them.
-- Try to achieve 15 scores.
+- Try to achieve **15** scores.
 
 ### 🌐 Live Demo
 
