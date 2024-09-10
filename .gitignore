@@ -1,0 +1,9 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Miscellaneous
+*.log
+.DS_Store
